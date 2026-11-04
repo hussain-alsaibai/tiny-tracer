@@ -12,7 +12,10 @@ Usage:
         response = llm.call(prompt)
 """
 
+
 from __future__ import annotations
+
+__version__ = "0.1.0"
 
 import os
 import sys
